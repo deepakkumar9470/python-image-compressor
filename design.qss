@@ -1,0 +1,13 @@
+#main-window
+{
+background-color:#192A56;
+}
+#bubble
+{
+ background-color:lightblue;
+ min-width:300px;
+ min-height:125px;
+ max-width:300px;
+ max-height:125px;
+ border-radius:20px;
+}
